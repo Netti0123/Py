@@ -2,6 +2,7 @@ body{
     color: white;
     background-image: url(hatter.png);
     background-color: "#000000";
+    text-align: center;
 }
 
 img{
@@ -12,11 +13,14 @@ table{
 
     float: center;
     width: 1000px;
-    border: 0;
     margin: 5px;
 }
 
 td{
     padding: 0px;
     margin: 5px;
+}
+tr{
+    width: 120px;
+
 }
